@@ -1,4 +1,4 @@
-# Loan Default Risk Prediction
+# Credit Risk Modeling for Smarter Lending Decisions
 
 ## Overview
 
